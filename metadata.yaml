@@ -1,10 +1,13 @@
 _repo: The-Story-book-of-Science_56795
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   translator:
     agent_name: Bicknell, Florence Constable
     gutenberg_agent_id: '49040'
     url: http://www.gutenberg.org/2009/agents/49040
+covers:
+- cover_type: archival
+  image_path: 56795-h/images/cover.jpg
 creator:
   author:
     agent_name: Fabre, Jean-Henri
@@ -18,6 +21,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/735
     wikipedia: http://en.wikipedia.org/wiki/Jean_Henri_Fabre
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/56795#The-Story-book-of-Science
 gutenberg_issued: '2018-03-20'
 gutenberg_type: Text
 identifiers:

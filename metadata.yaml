@@ -1,0 +1,32 @@
+_repo: The-Story-book-of-Science_56795
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Bicknell, Florence Constable
+    gutenberg_agent_id: '49040'
+    url: http://www.gutenberg.org/2009/agents/49040
+creator:
+  author:
+    agent_name: Fabre, Jean-Henri
+    aliases:
+    - Fabre, Jean Henri Casimir
+    - Fabre, J. Henri
+    - Fabre, Henri
+    birthdate: 1823
+    deathdate: 1915
+    gutenberg_agent_id: '735'
+    url: http://www.gutenberg.org/2009/agents/735
+    wikipedia: http://en.wikipedia.org/wiki/Jean_Henri_Fabre
+description: ''
+gutenberg_issued: '2018-03-20'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '56795'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: The Story-book of Science
+url: http://www.gutenberg.org/ebooks/56795
